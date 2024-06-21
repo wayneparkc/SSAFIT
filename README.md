@@ -1,8 +1,6 @@
 ![서비스 로고](results/logo_dark.png)  
 <br/>
 
-# Spirit of Parenthesis (**최현준** **박창빈**)
-
 ## Introduction of Ssafit
 
 운동 목표와 나의 체성분 분석결과를 바탕으로,  
